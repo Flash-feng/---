@@ -3,9 +3,8 @@
 这是人工智能前沿与交叉课程第五组有关AI医疗影像识别应用的项目记录
 本网站根据项目进度更新代码资源及项目整合记录
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 项目概述
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
