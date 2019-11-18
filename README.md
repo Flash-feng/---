@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Flash-feng/---/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+这是人工智能前沿与交叉课程第五组有关AI医疗影像识别应用的项目记录
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
